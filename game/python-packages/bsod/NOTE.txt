@@ -1,0 +1,2 @@
+The bsod.exe without the icon is a dummy file. It displays a message box when opened.
+IF bsod.exe HAS AN ICON, IT WILL BLUESCREEN YOUR COMPUTER!!!
